@@ -1,0 +1,6 @@
+@TH3_HostAddress = http://localhost:5168
+
+GET {{TH3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
