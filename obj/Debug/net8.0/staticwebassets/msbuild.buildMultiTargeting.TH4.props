@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TH4.props" />
+</Project>

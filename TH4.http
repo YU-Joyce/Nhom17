@@ -1,0 +1,6 @@
+@TH4_HostAddress = http://localhost:5255
+
+GET {{TH4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
